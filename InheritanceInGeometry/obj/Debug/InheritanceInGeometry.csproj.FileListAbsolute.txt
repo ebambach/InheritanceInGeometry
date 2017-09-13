@@ -1,0 +1,6 @@
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\bin\Debug\InheritanceInGeometry.dll
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\bin\Debug\InheritanceInGeometry.pdb
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\obj\Debug\InheritanceInGeometry.csprojResolveAssemblyReference.cache
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\obj\Debug\InheritanceInGeometry.csproj.CoreCompileInputs.cache
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\obj\Debug\InheritanceInGeometry.dll
+C:\repos\InheritanceInGeometry\InheritanceInGeometry\obj\Debug\InheritanceInGeometry.pdb
